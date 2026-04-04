@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AgAuth.IdentityServer/AgAuth.IdentityServer.csproj" />
+  </Folder>
+</Solution>
