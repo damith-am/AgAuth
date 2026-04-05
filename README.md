@@ -12,4 +12,9 @@ This identity server is https enabled one and you need forward your public reque
 - Copy the highlited url and paste in in the **PublicOrigin** in the **appsettings.json** file and you're set.
 <img width="872" height="444" alt="image" src="https://github.com/user-attachments/assets/ff07fb82-ef9e-4d87-999e-a3faddfee64c" />
 
-> **✨ Follow instructions of the Readme of mobile app to set configurations. 
+> **✨ Follow instructions of the Readme of mobile app to set configurations.
+>
+> # Test Users
+-admin/1234
+-bob/bob
+-alice/alice
