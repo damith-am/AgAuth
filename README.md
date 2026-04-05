@@ -1,4 +1,5 @@
 # AgAuth
+This simple Duende Identity Server instance is made for testing purposes of the mobile app. The mobile app requires a tokcn based authentication system to login and perform secured API requests. Test users are mentioned below.  
 
 > **✨ Make sure to follow instructions below to host this identity server as a public web app.**
 
