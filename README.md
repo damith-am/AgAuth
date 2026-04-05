@@ -15,6 +15,6 @@ This identity server is https enabled one and you need forward your public reque
 > **✨ Follow instructions of the Readme of mobile app to set configurations.
 >
 > # Test Users
--admin/1234
--bob/bob
--alice/alice
+- admin/1234
+- bob/bob
+- alice/alice
