@@ -7,7 +7,7 @@ This identity server is https enabled one and you need forward your public reque
 
 - Save **Ngrok** into a spearate directory 
 - You're running your identity server on this local url **[https://localhost:5001]**
-- Use command **"ngrok http --host-header=rewrite https://localhost:5001"** to run **ngrok**. It'll look like follwing.
+- Use command **"ngrok http --host-header=rewrite https://localhost:5001"** to run **ngrok**. It'll look like the follwing.
 <img width="1174" height="460" alt="image" src="https://github.com/user-attachments/assets/73849d69-0457-4d75-89c4-6f10acadb19e" />
 
 - Copy the highlited url and paste in in the **PublicOrigin** in the **appsettings.json** file and you're set.
